@@ -152,7 +152,7 @@
     border-style:solid;
     margin: 20px;
     border-radius: 16px;
-    background-image: url(images/quote-bg.png);
+    background-image: url("quote-bg.png");
     background-repeat: no-repeat;
     background-position:top left;
     padding: 10px;
