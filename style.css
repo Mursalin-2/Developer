@@ -228,5 +228,34 @@
 
 
 }
+/* for extra point */
+.last{
+    text-align: center;
+    background-color: #C6E4D6;
+    padding: 30px;
+    margin: 40px;
+    border-radius: 16px;
+}
+
+.hello11{
+    align-items: center;
+    margin-left: 100px;
+    width: 600px;
+    height: 70px;
+    border-style: solid;
+   
+    font-size: 20px;
+
+}
+
+.title{
+    text-align: center;
+}
+
+.photo-style{
+    display: flex;
+    gap: 4px;
+    justify-content: center;
+}
 
     
